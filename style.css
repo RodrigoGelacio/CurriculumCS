@@ -1,12 +1,11 @@
 body{
   background-color: aquamarine;
 }
-h2{
+.secciones{
   border-style: solid;
   border-width: thin;
   border-color: red;
   background-color: red;
-  width:50px;
 }
 #profilePicture{
   float: right;
