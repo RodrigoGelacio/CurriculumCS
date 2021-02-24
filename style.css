@@ -6,6 +6,7 @@ h2{
   border-width: thin;
   border-color: red;
   background-color: red;
+  width:100%;
 }
 #profilePicture{
   float: right;
