@@ -1,0 +1,35 @@
+body{
+  background-color: aquamarine;
+}
+h2{
+  border-style: solid;
+  border-width: thin;
+  border-color: red;
+  background-color: red;
+}
+#profilePicture{
+  float: right;
+  height: 100px;
+  width: 50px;
+}
+.datosPersonales{
+  padding: 0;
+  margin: 0;
+}
+nav{
+  font-style: italic;
+}
+address{
+  font-style: normal;
+}
+#sonic{
+  height: 125px;
+  width: 200px;
+  position: relative;
+  animation: mymove 1s infinite;
+  animation-timing-function: linear;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
